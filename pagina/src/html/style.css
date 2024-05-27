@@ -1,1 +1,36 @@
-style.css
+.botonesl1{
+    background-color:4E6637 ;
+}
+.label1{
+    background-color: #CCCCCC;
+    display: list-item;
+}
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #4E6637;
+}
+.nav{
+    --bs-nav-link-color: black;
+    --bs-nav-link-hover-color:white;
+}
+ html{
+    background-color: #F9FAF0;
+ }
+.btn-primary{
+    --bs-btn-bg: #4E6637;
+    --bs-btn-border-color: #4E6637;
+    --bs-btn-hover-bg: #4E6637;
+    --bs-btn-hover-border-color: #4E6637;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #4E6637;
+    --bs-btn-active-border-color: #4E6637;
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #4E6637;
+    --bs-btn-disabled-border-color: #4E6637;
+}
+.button.btn { 
+    width: auto; 
+}
+.div-dos{
+    background-color: #F9FAF0;
+}
